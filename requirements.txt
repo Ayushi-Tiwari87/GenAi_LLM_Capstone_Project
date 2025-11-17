@@ -1,9 +1,0 @@
-numpy
-pandas
-matplotlib
-seaborn
-scipy
-scikit-learn
-statsmodels
-sentence-transformers
-faiss-cpu
